@@ -1,6 +1,6 @@
 # 🧠 Carpal Tunnel MRI Segmentation
 
-這是一個基於 **Python** 與 **PyQt5** 開發的圖形化介面 (GUI) 應用程式，專門用於分析手腕 MRI 影像 (T1/T2 weighted images)。
+這是一個專門用於分析手腕 MRI 影像 (T1/T2 weighted images)。
 
 本工具整合了傳統電腦視覺演算法 (OpenCV)，能自動分割並識別以下解剖構造，並計算與 Ground Truth (GT) 的 Dice Coefficient：
 
